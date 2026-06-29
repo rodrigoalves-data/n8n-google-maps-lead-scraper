@@ -33,4 +33,4 @@ Este workflow foi construído para fins de demonstração. Os dados recolhidos d
 
 ## Autor
 
-Rodrigo Alves — [LinkedIn](https://linkedin.com/in/rodrigoalves) | [GitHub](https://github.com/rodrigoalves-data)
+Rodrigo Alves — [LinkedIn](https://www.linkedin.com/in/rodrigo-alves-5b4a0b3b9/) | [GitHub](https://github.com/rodrigoalves-data)
