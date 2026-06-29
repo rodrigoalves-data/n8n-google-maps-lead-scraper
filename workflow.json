@@ -17,7 +17,7 @@
         "headerParameters": {
           "parameters": [
             {"name": "Content-Type", "value": "application/json"},
-            {"name": "X-Goog-Api-Key", "value": "AIzaSyAEI1yvpeq-ML4g6_ACSIRZ29FEL8NIkw4"},
+            {"name": "X-Goog-Api-Key", "value": "YOUR API KEY"},
             {"name": "X-Goog-FieldMask", "value": "places.displayName,places.formattedAddress,places.websiteUri,places.nationalPhoneNumber,places.rating,places.nextPageToken"}
           ]
         },
